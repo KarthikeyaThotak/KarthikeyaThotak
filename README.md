@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Tailwind, Reactflow)</b>
-  - [Image Futura(Your New Futur Guide)](https://github.com/KarthikeyaThotak/Futura)</i>
+  - [Lucros.us - Micro-Investment does matter](https://github.com/KarthikeyaThotak/Lucros)
 
 - <b>Bash</b>
   - [Autocommit: CLI GIT automation tool](https://github.com/KarthikeyaThotak/Autocommit)
